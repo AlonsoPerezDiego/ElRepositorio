@@ -6,7 +6,8 @@ import javax.swing.JOptionPane;
 
 public class Rectangulo {
 
- 
+ //El área viene dada en cm²
+    
     public static void main(String[] args) {
         float base;
         float altura;
